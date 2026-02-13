@@ -7,7 +7,7 @@ body{
     display:flex;
     flex-direction:column;
     justify-content:center;
-    align-items:center;
+    align-items:left;
     text-align:center;
     font-family: Arial;
                  
@@ -53,3 +53,4 @@ button:hover {
     background-color: #cc0033;
     transform: scale(1.1);
 }
+
