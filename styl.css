@@ -7,7 +7,7 @@ body{
     display:flex;
     flex-direction:column;
     justify-content:center;
-    align-items:left;
+    align-items:center;
     text-align:center;
     font-family: Arial;
                  
@@ -21,7 +21,7 @@ body{
 
 .content {
     text-align: center;
-    background: rgb(255, 192, 245);
+    background: pink;
     padding: 50px;
     border-radius: 20px;
     backdrop-filter: blur(8px);
@@ -53,4 +53,5 @@ button:hover {
     background-color: #cc0033;
     transform: scale(1.1);
 }
+
 
